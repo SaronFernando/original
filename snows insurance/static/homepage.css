@@ -1,0 +1,13 @@
+*{margin: 0;padding: 0;
+box-sizing: border-box;}
+
+.header{width: 100%;
+background-image: linear-gradient(rgb(8, 0, 242));}
+
+.nav-link{color: white;}
+img{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
